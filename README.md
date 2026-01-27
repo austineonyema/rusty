@@ -1,5 +1,2 @@
-```markdown
-# Shell Script Examples
-
-This notebook contains executable shell script cells. Each cell can be run independently to demonstrate various shell scripting concepts.
-```
+documenting my rusty journey here, one project at a time
+the aim is to learn somwthing new everyday whi,e reading along with the book
